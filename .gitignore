@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.sam
+*.bam
+*.bcf
+*.vcf
+*.sorted.*
+tmp/
+data/*.fai
+data/*.dict
